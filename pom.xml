@@ -7,7 +7,28 @@
     <version>${revision}</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
-    <description>${project.name}</description>
+    <description>Identity Authentication and Authority Control Center</description>
+    <url>https://github.com/lazycece/iacc</url>
+
+    <scm>
+        <url>git@github.com:lazycece/iacc.git</url>
+        <connection>scm:git:git@github.com:lazycece/iacc.git</connection>
+        <developerConnection>scm:git:git@github.com:lazycece/iacc.git</developerConnection>
+    </scm>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://github.com/lazycece/iacc/blob/main/LICENSE</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>lazycece</name>
+            <url>https://github.com/lazycece</url>
+            <email>lazycece@gmail.com</email>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
 
     <modules>
         <module>app/facade</module>
