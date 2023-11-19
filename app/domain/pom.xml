@@ -26,6 +26,10 @@
             <artifactId>rapidf-utils</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.lazycece.cell</groupId>
+            <artifactId>cell-spring-boot-starter</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.lazycece.rapidf</groupId>
             <artifactId>rapidf-logger</artifactId>
         </dependency>
