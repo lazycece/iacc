@@ -1,6 +1,4 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+# IACC (身份认证与权限控制中心)
 
 ## Build Commands
 
